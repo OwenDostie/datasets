@@ -1,6 +1,6 @@
 # About
 
-All data is in `.csv` format. One way to import is `pd.read_csv("my-url.csv")`.
+All data is in `.csv` format. The url for importing is `https://github.com/OwenDostie/datasets/blob/main/{filename}?raw=true`
 
 # Datasets
 
